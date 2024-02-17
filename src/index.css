@@ -23,6 +23,15 @@ body{
      background-position: 0% 50%;
   }
 }
+.header{
+  font-size: 70px;
+  font-weight: 600;
+  background-color: black;
+  color: transparent;
+  background-clip: text;
+  text-align: center;
+  margin-bottom: 35px;
+}
 .container{
   max-width: 700px;
   width: 100%;
